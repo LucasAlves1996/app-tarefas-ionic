@@ -1,0 +1,8 @@
+{
+  "name": "app-tarefas-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ea5c18c1"
+}
